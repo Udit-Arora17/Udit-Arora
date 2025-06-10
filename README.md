@@ -1,18 +1,12 @@
 # Hey! I'm Udit 👋
 
 I'm 12 and I love coding in Python!  
-I’m still learning, but I’m super excited to make cool projects and get better every day. 🐍✨
-
----
-
-## Stuff I've Made So Far
-- 🎮 A Rock Paper Scissors game — because everyone loves playing that!  
-- 📊 A Student Report Card Generator — helps you calculate grades easily!
+I’m still learning, but I’m super excited to make cool projects and get better every day. 🐍👨‍🏫
 
 ---
 
 ## What I’m Working On Now (Short Term Goals)
-- Currently learning OOP(Object Oriented Programming)
+- Currently learning Advanced Python
 
 ## What is my plan? (Long term Goals)
 - Go into the field of data science and machine learning 
